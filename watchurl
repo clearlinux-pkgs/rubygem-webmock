@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2015-11-27 16:48:58.756198
-# {'~>1.7', '~>1.4', '>=1.7.5', 'development'}
-https://rubygems.org/downloads/webmock-([0-1]\.[0-9]{1,2}(\.[0-9]{1,2})?).gem
+# 2016-02-25 23:03:08.327840
+# {'~>1.4', '~>1.7', '>=1.7.5', 'development'}
+watchurl=https://rubygems.org/gems/webmock/versions/([0-1]\.[0-9]{1,2}(\.[0-9]{1,2})?)
